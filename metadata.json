@@ -1,0 +1,12 @@
+{
+  "name": "Remix AgriOne - Intelligent Digital Agriculture Ecosystem",
+  "description": "Enterprise-grade digital agriculture platform featuring real-time crop disease diagnosis, FAO-56 smart irrigation, market price intelligence, satellite NDVI field analytics, 3D agricultural visualization, and multilingual AI farmer assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
